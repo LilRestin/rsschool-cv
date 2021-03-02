@@ -5,6 +5,7 @@
 - Surname: Pronovich
 - Phone number: 80295086669
 - Email: therestin2@gmail.com
+- Telegram: @lilrestinforever
 
 ##### 2. Personal information #####
 I am 19 years old, I have a profession of a programmer, I want to learn the programming language JavaScript and Python. I am a goal-oriented person, punctual, I have a desire for new things.
